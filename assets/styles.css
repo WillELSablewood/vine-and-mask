@@ -182,6 +182,8 @@ a[target="_blank"]::after { content: " ↗"; font-size: .9em; opacity: .7; }
 }
 
 
+/* Page banners */
+/* Home (index) hero */
 .hero {
   min-height: 32vh;
   background:
